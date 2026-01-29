@@ -1,0 +1,4 @@
+working with got stashing with apply and pop commands>a4.txt
+echo working with got stashing with apply and pop commands>a4.txt
+echo working with got stashing with apply and pop commands
+working with got stashing with apply and pop commands
